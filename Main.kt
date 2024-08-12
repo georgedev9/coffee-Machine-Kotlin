@@ -1,5 +1,3 @@
-package machine
-
 class CoffeeMachine{
 
     private var balance = 550
